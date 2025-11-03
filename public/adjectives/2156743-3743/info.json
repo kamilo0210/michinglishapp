@@ -1,0 +1,114 @@
+{
+  "user": {
+    "username": "Juanpa",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@juan_robayo_maestre"
+  },
+  "topics": [
+    {
+      "topic": "adjectives",
+      "questions": [
+    {
+      "question": "Which word is an adjective in the sentence: 'The tall building stands near the busy street'?",
+      "options": [
+        "stands",
+        "building",
+        "tall",
+        "near"
+      ],
+      "answer": "tall"
+    },
+    {
+      "question": "Choose the sentence that uses an adjective correctly:",
+      "options": [
+        "He runs fastly.",
+        "He is a fast runner.",
+        "He is fastness.",
+        "He runs very faster."
+      ],
+      "answer": "He is a fast runner."
+    },
+    {
+      "question": "Which of the following is a comparative adjective?",
+      "options": [
+        "cold",
+        "coldest",
+        "colder",
+        "coldness"
+      ],
+      "answer": "colder"
+    },
+    {
+      "question": "Identify the superlative adjective in this sentence: 'This is the most interesting book I've ever read.'",
+      "options": [
+        "interesting",
+        "most interesting",
+        "book",
+        "read"
+      ],
+      "answer": "most interesting"
+    },
+    {
+      "question": "Which sentence uses an adjective to describe a person's appearance?",
+      "options": [
+        "He walks slowly.",
+        "He is tall.",
+        "He speaks loudly.",
+        "He works hard."
+      ],
+      "answer": "He is tall."
+    },
+    {
+      "question": "Choose the correct order of adjectives: 'They live in a _____ house.'",
+      "options": [
+        "wooden old beautiful",
+        "beautiful wooden old",
+        "old beautiful wooden",
+        "beautiful old wooden"
+      ],
+      "answer": "beautiful old wooden"
+    },
+    {
+      "question": "What kind of adjective is used in the sentence: 'This car belongs to me.'?",
+      "options": [
+        "demonstrative adjective",
+        "descriptive adjective",
+        "numeral adjective",
+        "possessive adjective"
+      ],
+      "answer": "demonstrative adjective"
+    },
+    {
+      "question": "Which of these is a descriptive adjective?",
+      "options": [
+        "those",
+        "bright",
+        "my",
+        "five"
+      ],
+      "answer": "bright"
+    },
+    {
+      "question": "Which adjective best completes this sentence: 'The movie was so _____ that everyone cried.'",
+      "options": [
+        "sad",
+        "sadly",
+        "sadness",
+        "saddened"
+      ],
+      "answer": "sad"
+    },
+    {
+      "question": "Choose the correct use of an adjective:",
+      "options": [
+        "It was a wind night.",
+        "It was a winded night.",
+        "It was a windy night.",
+        "It was winding night."
+      ],
+      "answer": "It was a windy night."
+    }
+  ]
+    }
+  ]
+}
